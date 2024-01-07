@@ -34,7 +34,9 @@
     background: #F15B22;
     width: 160px;
     height: 64px;
-    /* padding-right:; */
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 /* About style */
@@ -79,7 +81,8 @@
     margin: 140px 0 50px 170px;
 
 }
-.my{
+
+.my {
     margin-left: 100px;
 }
 
@@ -123,7 +126,7 @@
     height: 300px;
     /* border-radius: 10px; */
     border: 0;
-    margin:  0 100px;
+    margin: 0 100px;
     /* background-image: url('../new-year-new-me/images/watch.png'); */
     border-radius: 8px;
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
@@ -131,7 +134,8 @@
     margin: -305px;
     margin-left: 180px;
 }
-.watch-img{
+
+.watch-img {
     margin: 0 180px;
 }
 
