@@ -115,12 +115,27 @@
 }
 
 .watch {
-  
+
     width: 1140px;
     height: 300px;
     border-radius: 10px;
     border: 0;
     margin: 0 100px;
-    background-image: url('../new-year-new-me/images/watch.png')    
+    background-image: url('../new-year-new-me/images/watch.png')
+}
 
+.rectangal-description {
+    color: #161515;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 60px 615px 24px 65px;
+}
+
+.btn-color {
+    padding: 20px 36px;
+    color: #F15B22;
+}
+
+.btn-call-now {
+    padding: 0 916px 60px 65px;
 }
