@@ -79,6 +79,9 @@
     margin: 140px 0 50px 170px;
 
 }
+.my{
+    margin-left: 100px;
+}
 
 .plan {
     color: #151414;
@@ -92,7 +95,7 @@
     display: flex;
     gap: 98px;
     text-align: center;
-    margin: 0 125px;
+    margin: 0 155px;
 
 }
 
@@ -118,10 +121,18 @@
 
     width: 1140px;
     height: 300px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     border: 0;
-    margin: 0 100px;
-    background-image: url('../new-year-new-me/images/watch.png')
+    margin:  0 100px;
+    /* background-image: url('../new-year-new-me/images/watch.png'); */
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    position: absolute;
+    margin: -305px;
+    margin-left: 180px;
+}
+.watch-img{
+    margin: 0 180px;
 }
 
 .rectangal-description {
@@ -129,6 +140,7 @@
     font-size: 40px;
     font-weight: 700;
     padding: 60px 615px 24px 65px;
+    margin: 0 0 1000px 0;
 }
 
 .btn-color {
